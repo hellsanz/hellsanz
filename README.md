@@ -1,7 +1,7 @@
 # Hi im Sanchez Pablo, or Hellsanz for friends
 
-## 4 years working in photografy
-## studying Tecnico Universitario en Programacion (university technician in programming) in last year from this career in university
+## 4 years working in photograph
+## studying Tecnico Universitario en Programacion in last year from this career in university
 
 i know about:
 * OOP
@@ -9,7 +9,7 @@ i know about:
 * java
 * C#
 * C
-* Asembly (dont like it but..😄)
+* Asembly (i dont like it but..😄)
 
 
 ### for now im in more frontend than backend but i trying to improve my knowledge about that
