@@ -5,7 +5,8 @@
 
 i know about:
 * OOP
-* html and css (learning js🌱)
+* html and css and sass(learning js🌱)
+* sql
 * java
 * C#
 * C
@@ -18,7 +19,6 @@ want to learn:
 - Agile
 - react
 - nodejs
-- sql
 - mongodb
 
 my email: psnsanchez@gmail.com
