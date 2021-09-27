@@ -18,7 +18,7 @@ want to learn:
 - Agile
 - react
 - nodejs
-- mysql
+- sql
 - mongodb
 
 my email: psnsanchez@gmail.com
