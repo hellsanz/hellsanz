@@ -5,7 +5,7 @@
 
 i know about:
 * OOP
-* html and css and sass(learning js🌱)
+* html, css and sass(learning js🌱)
 * sql
 * java
 * C#
