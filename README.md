@@ -5,7 +5,7 @@
 
 i know about:
 * OOP
-* html, css and sass(learning js🌱)
+* html, css and sass(learning js and php🌱)
 * sql
 * java
 * C#
@@ -16,7 +16,9 @@ i know about:
 ### for now im in more frontend than backend but i trying to improve my knowledge about that
 want to learn:
 
-- Agile
+- Asp.Net
+- Ado.Net
+- Xamarin
 - react
 - nodejs
 - mongodb
