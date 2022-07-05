@@ -1,27 +1,52 @@
 # Hi im Sanchez Pablo, or Hellsanz for friends
 
-## 4 years working in photograph
 ## studying Tecnico Universitario en Programacion in last year from this career in university
 
 i know about:
-* OOP
-* html, css and sass(learning js and php🌱)
-* sql
-* java
+* OOP, Relational Model
+
+## Languages
 * C#
 * C
-* Asembly (i dont like it but..😄)
+* java
+* Javascript
+* html, css and sass
+* Cucumber
+* Gherkin
 
+## Data Bases
+* Sql Server - Mysql
 
-### for now im in more frontend than backend but i trying to improve my knowledge about that
-want to learn:
+## Automation
+* Selenium (Java)
+* Cypress (Javascript)
 
-- Asp.Net
-- Ado.Net
-- Xamarin
-- react
-- nodejs
-- mongodb
+## Repositories
+* Git - Github
+* Git - Gitlab
+
+## Incident manager
+* Jira - Xray
+
+## Tools - Ide - Work Station:
+* Visual Studio Code
+* Visual Studio
+* Intellij
+* Eclipse
+* Navicat 12
+* Microsoft Sql Server Managment Studio
+
+## Operating System
+* Windows
+* Linux Manjaro
+
+## Comunication
+* Slack
+* Discord
+
+### learning right now:
+- Postman
+- Appium
 
 my email: psnsanchez@gmail.com
 <!--
