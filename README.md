@@ -1,6 +1,6 @@
-# Hi im Sanchez Pablo, or Hellsanz for friends
+# Hi there, im Sanchez Pablo, or Hellsanz for friends
 
-## studying Tecnico Universitario en Programacion in last year from this career in university
+## Tecnico Universitario en Programación - UTN - Universidad Tecnológica Nacional (Argentina)
 
 i know about:
 * OOP, Relational Model
@@ -20,6 +20,10 @@ i know about:
 ## Automation
 * Selenium (Java)
 * Cypress (Javascript)
+
+## Agile Methods
+* Scrum
+* Kanban
 
 ## Repositories
 * Git - Github
