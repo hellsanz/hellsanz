@@ -20,6 +20,7 @@ i know about:
 ## Automation
 * Selenium (Java)
 * Cypress (Javascript)
+* Postman
 
 ## Agile Methods
 * Scrum
@@ -49,7 +50,6 @@ i know about:
 * Discord
 
 ### learning right now:
-- Postman
 - Appium
 
 my email: psnsanchez@gmail.com
